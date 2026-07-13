@@ -1,0 +1,2 @@
+run_name,run_type,file_type,run_dir,samplesheet
+test_run,SBX-D,basecall_fastq,basecall_fastq,basecall_fastq/samplesheet.csv

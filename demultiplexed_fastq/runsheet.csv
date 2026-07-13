@@ -1,0 +1,2 @@
+run_name,run_type,file_type,run_dir,samplesheet
+test_run,SBX-D,demultiplexed_fastq,demultiplexed_fastq,demultiplexed_fastq/samplesheet.csv

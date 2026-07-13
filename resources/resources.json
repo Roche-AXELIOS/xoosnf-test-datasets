@@ -1,0 +1,25 @@
+{
+    "reference_fasta": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.fna",
+    "reference_fai": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.fna.fai",
+    "reference_dict": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.dict",
+    "autosomes_bed": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.autosomes.bed",
+    "demux_strand_detect_index": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.bloom",
+    "chr_x_par_bed": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.chrX_PAR.bed",
+    "chr_y_par_bed": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.chrY_PAR.bed",
+    "mappability_bw": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.bw",
+    "pop_af_vcf": "resources/gatk-best-practices/hg38/af-only-gnomad.hg38.vcf.gz",
+    "pop_af_tbi": "resources/gatk-best-practices/hg38/af-only-gnomad.hg38.vcf.gz.tbi",
+    "bwa_index_dir": "resources/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set",
+    "giraffe_index_dir": "resources/hprc-v1.1-mc-grch38.d9.masked.remove_prefix.v70",
+    "giraffe_reference_linearized": "resources/hprc-v1.1-mc-grch38.d9.masked.remove_prefix.v70/hprc-v1.1-mc-grch38.d9.masked.remove_prefix.v70.fa",
+    "unfiltered_giraffe_index_dir": "resources/hprc-v1.1-mc-grch38.masked.remove_prefix_vg-1.70_indexed",
+    "unfiltered_giraffe_reference_linearized": "resources/hprc-v1.1-mc-grch38.masked.remove_prefix_vg-1.70_indexed/hprc-v1.1-mc-grch38.masked.remove_prefix_vg-1.70_indexed.fa",
+    "germline_small_variant_truth_vcf_dir": "resources/NISTv4.2.1/truth",
+    "germline_small_variant_train_bed_dir": "resources/NISTv4.2.1/train",
+    "germline_small_variant_test_bed_dir": "resources/NISTv4.2.1/test",
+    "germline_small_variant_eval_bed_dir": "resources/NISTv4.2.1/eval",
+    "high_confidence_bed_dir": "resources/NISTv4.2.1/high_confidence",
+    "fallback_high_confidence_bed": "resources/NISTv4.2.1/high_confidence/fallback.bed",
+    "repeat_catalog": "resources/STR/hg38/full_repeat_catalog.json"
+}
+

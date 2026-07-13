@@ -1,0 +1,2 @@
+run_name,run_type,file_type,run_dir,samplesheet,bam_type
+test_run,SBX-D,bam,bam,bam/samplesheet.csv,xoos_secondary_rescue_and_markdup

@@ -1,0 +1,3 @@
+region_type,region_bed
+homopolymers,resources/alignment_metrics/homopolymers.bed.gz
+segmental_duplications,resources/alignment_metrics/segmental_duplications.bed
